@@ -1,6 +1,6 @@
 ## **Hello there 👋** ##
 
-My name is Jay. I am a computer science student attending the University at Buffalo and from New York City. Here's some info about me!
+My name is Jay. I'm a computer science student attending the University at Buffalo and from New York City. Here's some info about me!
 
 💼 Work experience:
 
