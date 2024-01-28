@@ -1,4 +1,4 @@
-**Hello there 👋**
+## **Hello there 👋** ##
 
 My name is Jay and I am a computer science student at University at Buffalo from New York City. Here's some info about me!
 
@@ -14,3 +14,5 @@ My name is Jay and I am a computer science student at University at Buffalo from
 🕹️ Hobbies:
 * Gaming
 * Sports
+
+💬 Reach me by email or LinkedIn! jayxu9000@gmail.com | https://www.linkedin.com/in/jayxu9000/
