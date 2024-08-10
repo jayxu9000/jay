@@ -1,6 +1,6 @@
 ## **Hello there 👋** ##
 
-My name is Jay. I'm a 2024 computer science student newgrad from the University at Buffalo. I am from NYC and here's some info about me!
+My name is Jay. I'm a 2024 computer science newgrad from the University at Buffalo. I am from NYC and here's some info about me!
 
 💼 Work experience:
 
