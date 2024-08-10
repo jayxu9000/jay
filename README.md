@@ -1,6 +1,6 @@
 ## **Hello there 👋** ##
 
-My name is Jay. I'm a computer science student attending the University at Buffalo and from New York City. Here's some info about me!
+My name is Jay. I'm a computer science student who recently graduated from the University at Buffalo as of May 2024. I am from New York City. Here's some info about me!
 
 💼 Work experience:
 
