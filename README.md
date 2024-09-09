@@ -5,7 +5,7 @@ My name is Jay. I'm a 2024 computer science newgrad from the University at Buffa
 💼 Work experience:
 
 * **IT Intern at Woodhull Hospital** - Resolved tech issues throughout the hospital as a member of the IT team. [Brooklyn, NY. Summer 2023]
-* **Data Entry Intern at Kumon** - Managed current data of a tutoring center and ensured efficient entry of new data. [Staten Island, NY. Summer 2021]
+* **Data Entry Intern at Kumon** - Managed data of a tutoring center and ensured efficient entry of new data. [Staten Island, NY. Summer 2021]
 
 💻 Technical Interests:
 * Software Development
